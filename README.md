@@ -31,9 +31,7 @@ Files
 
 "exide_stock.csv" is the csv file containing the historical stock data of Exide Industries Limited.
 
-"exide_predicted.xml" is the xml file containing the predicted stock prices of Exide Industries Limited.
-
-"exide_predicted.png" is the png file containing the chart showing the trend of original and predicted stock prices.
+"forcast.xcsv" is the xml file containing the predicted stock prices of Exide Industries Limited.
 
 
 Usage
