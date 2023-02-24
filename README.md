@@ -27,9 +27,9 @@ The dataset is available in the file "exide_stock.csv".
 
 Files
 
-"stock_price_prediction.ipynb" is the Jupyter Notebook file which contains the code for stock price prediction using fbprophet library.
+"Automate_share_pridiction_30_days.ipynb" is the Jupyter Notebook file which contains the code for stock price prediction using fbprophet library.
 
-"exide_stock.csv" is the csv file containing the historical stock data of Exide Industries Limited.
+"exide.csv" is the csv file containing the historical stock data of Exide Industries Limited.
 
 "forcast.xcsv" is the xml file containing the predicted stock prices of Exide Industries Limited.
 
